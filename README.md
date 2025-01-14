@@ -1,8 +1,8 @@
 **Austin, TX Housing Prices Prediction Model**
 
 OVERVIEW
-_This project aims to predict housing prices in Austin, TX using machine learning techniques and a comprehensive dataset foudn on Kaggle.
-The project demonstrates advanced data preprocessing techniques, feature engineering, and model optimization to achieve a high test accuracy score._
+This project aims to predict housing prices in Austin, TX using machine learning techniques and a comprehensive dataset found on Kaggle.
+The project demonstrates advanced data preprocessing techniques, feature engineering, and model optimization to achieve a high test accuracy score.
 
 FEATURES
 - Dataset: Comprehensive housing dataset found on Kaggle
